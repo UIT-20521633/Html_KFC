@@ -1,0 +1,24 @@
+#title {
+  background-color: red;
+  color: white;
+}
+div#menu a {
+  font-size: 20px;
+}
+.default {
+  background-color: #9e2929;
+}
+.default p {
+  font-size: 30px;
+  color: white;
+  text-align: justify;
+}
+.default h2 {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+#list {
+  color: white;
+  font-size: 25px;
+}
